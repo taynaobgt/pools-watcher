@@ -21,7 +21,7 @@
 # de dam bao khong bi le qua xa moc 60 phut khi den han bao cao.
 
 name: Watch pools.trade
-
+# cron re-registered 2026-08-03
 on:
   schedule:
     # Chay moi 5 phut (cu phap cron chuan UTC). Chu ky nay CHI de kiem tra thay doi
